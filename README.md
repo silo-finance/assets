@@ -1,0 +1,2 @@
+# assets
+Silo assets
